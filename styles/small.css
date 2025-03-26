@@ -10,11 +10,11 @@
 }
 
 :root {
-  --primary-color:#acb8f0;
+  --primary-color:#1B4080;
   --secondary-color: #8093e9;
-  --bg-color: #ffffff;
-  --txt-color: #2e2e2e;
-  --highlight-color: #ffd000;
+  --bg-color: #F5F5F5;
+  --txt-color: #40C4C0;
+  --highlight-color: #D71920;
   --header-padding: 1rem;
   --header-font-size: 0.85rem;
   --header-font-weight: 700;
