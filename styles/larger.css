@@ -1,0 +1,189 @@
+@media (min-width: 44rem) {
+  #cards.grid {
+    grid-template-columns: repeat(2, 1fr); /* two columns for medium screens */
+  }
+}
+
+@media only screen and (min-width: 63rem) {
+  /* Styles for larger screens */
+
+  /* header section and nav */
+  header span {
+    font-size: 1.5rem;
+  }
+
+  #myButton {
+    display: none;
+  }
+
+  ul.menuLinks, ul.menuLinks.open {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  ul.menuLinks a:hover {
+    color: #ffd000;
+  }
+
+  nav {
+    grid-template-rows: 1fr;
+  }
+
+  /* main */
+  /* for the cards */
+  #cards.grid {
+    grid-template-columns: repeat(3, 1fr); /* three columns for larger screens */
+  }
+
+  /* list view */
+  #cards.list .card {
+    background-color: var(--bg-color);
+    padding: 1rem 2rem;
+    border-bottom: 2px solid var(--primary-color);
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-content: space-around;
+    text-align: left;
+  }
+
+  /* spotlight cards */
+  .spotlight-container {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem; /* Match smaller screen gap */
+  }
+
+  .spotlight-card {
+    background-color: var(--bg-color);
+    color: var(--txt-color);
+    border-radius: var(--card-border-radius);
+    box-shadow: var(--card-box-shadow);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    text-align: center; 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    align-items: center;
+  }
+
+  .spotlight-header {
+    background-color: var(--txt-color);
+    padding: 1rem; 
+    margin-bottom: 0.5rem;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+  .spotlight-header h3 {
+    font-size: 1.2rem; 
+    margin: 0;
+    color: var(--bg-color);
+  }
+
+  .spotlight-header p {
+    font-size: 1rem;
+    margin: 0.5rem 0 0;
+    color: var(--highlight-color);
+  }
+
+  .spotlight-body {
+    display: flex; 
+    flex-direction: row; 
+    align-items: center; 
+    justify-content: center; 
+    gap: 1rem; 
+  }
+
+  .spotlight-logo {
+    width: 90px; 
+    height: 90px;
+    border-radius: 15%;
+    object-fit: cover;
+    flex-shrink: 0;
+    padding:0;
+    margin: .5rem;
+    box-shadow: var(--card-box-shadow);
+  }
+
+  .spotlight-details {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem; 
+    align-items: flex-start; 
+    text-align: left; 
+  }
+
+  .spotlight-details p {
+    margin: 0;
+    font-size: 0.9rem;
+    word-wrap: break-word;
+  }
+
+  .spotlight-details a {
+    color: var(--txt-color);
+    text-decoration: none;
+    word-break: break-word;
+  }
+
+  .spotlight-details a:hover {
+    text-decoration: underline;
+  }
+
+  /* footer section */
+  footer .container {
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: left;
+    margin: .1rem 2.5rem .8rem 2.5rem;
+  }
+
+  .footer-content {
+    margin: 0;
+  }
+
+  .footer-content ul {
+    justify-content: center;
+  }
+
+  /* this is the hero image */
+  div picture {
+    max-width: 100%;
+  }
+  /* layout for desktop view */
+  .homepage-grid {
+    grid-template-columns: repeat(3, 1fr); 
+    grid-template-rows: auto auto; 
+    gap: 1rem;
+    padding: 1rem;
+    width: 100%; 
+    box-sizing: border-box; 
+  }
+
+  .homepage-grid > * {
+    margin: 0 auto; 
+    width: 100%; 
+    max-width: 100%; 
+    box-sizing: border-box; 
+    overflow: hidden;
+  }
+
+  .homepage-grid .events {
+    grid-column: span 1; 
+  }
+
+  .homepage-grid .weather-a {
+    grid-column: span 1;
+  }
+
+  .homepage-grid .weather-b {
+    grid-column: span 1; 
+  }
+
+  .homepage-grid .spotlights {
+    grid-column: span 3; 
+  }
+}
+

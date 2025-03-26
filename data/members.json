@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Sephaya Accessories",
+    "address": "123 Main St, Talamban, Cebu City",
+    "phoneNum": "(+63)927 123 4567",
+    "webURL": "https://www.sephaya.com",
+    "img": "images/sephaya.webp",
+    "logo":"images/sephayaLogo.webp",
+    "membershipLvl": 3,
+    "isActive": true,
+    "tagline": "Your style, our passion.",
+    "email": "contact@sephaya.com"
+  },
+  {
+    "name": "Nena's Delicacies",
+    "address": "456 Elm St, Talamban, Cebu City",
+    "phoneNum": "(+63)927 234 5678",
+    "webURL": "https://www.nenas.com",
+    "img": "images/cinnamon.webp",
+    "logo":"images/nenasLogo.webp",
+    "membershipLvl": 3,
+    "isActive": true,
+    "tagline": "Taste the tradition.",
+    "email": "info@nenadelicacies.com"
+  },
+  {
+    "name": "Arra Tech Intelligences",
+    "address": "789 Oak St, Talamban, Cebu City",
+    "phoneNum": "(+63)927 345 6789",
+    "webURL": "https://www.arratech.com",
+    "img": "images/arratech.webp",
+    "logo":"images/arratechLogo.webp",
+    "membershipLvl": 2,
+    "isActive": true,
+    "tagline": "Innovating the future.",
+    "email": "support@arratech.com"
+  },
+  {
+    "name": "Active Fitness Gym",
+    "address": "101 Pine St, Talamban, Cebu City",
+    "phoneNum": "(+63)927 456 7890",
+    "webURL": "https://www.activefitness.com",
+    "img": "images/activeFitness.webp",
+    "logo":"images/activeLogo.webp",
+    "membershipLvl": 2,
+    "isActive": true,
+    "tagline": "Fitness is a choice.",
+    "email": "hello@activefitness.com"
+  },
+  {
+    "name": "Smart Solutions LLC",
+    "address": "202 Maple St, Talamban, Cebu City",
+    "phoneNum": "(+63)927 567 8901",
+    "webURL": "https://www.smartsolutions.com",
+    "img": "images/smartsol.webp",
+    "logo":"images/smartsolLogo.webp",
+    "membershipLvl": 1,
+    "isActive": false,
+    "tagline": "Simplifying your world.",
+    "email": "contact@smartsolutions.com"
+  },
+  {
+    "name": "Market Ville",
+    "address": "303 Birch St, Talamban, Cebu City",
+    "phoneNum": "(+63)927 678 9012",
+    "webURL": "https://www.marketville.com",
+    "img": "images/marketVille.webp",
+    "logo":"images/marketLogo.webp",
+    "membershipLvl": 2,
+    "isActive": true,
+    "tagline": "Padayon Talamban.",
+    "email": "info@marketville.com"
+  },
+  {
+    "name": "Angel's Burger",
+    "address": "404 Cedar St, Talamban, Cebu City",
+    "phoneNum": "(+63)927 789 0123",
+    "webURL": "https://www.angelsburger.com",
+    "img": "images/angelsburger.webp",
+    "logo":"images/burgerLogo.webp",
+    "membershipLvl": 2,
+    "isActive": true,
+    "tagline": "Unang kagat, tinapay lahat.",
+    "email": "support@angelsburger.com"
+  }
+]
