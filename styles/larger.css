@@ -22,7 +22,7 @@
   }
 
   ul.menuLinks a:hover {
-    color: #ffd000;
+    color: var(--primary-color);
   }
 
   nav {
