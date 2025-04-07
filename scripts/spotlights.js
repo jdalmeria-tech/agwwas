@@ -6,17 +6,8 @@ async function loadSpotlights() {
         }
         const members = await response.json();
 
-        // map membershipLvl to membership levels
-        const membershipMap = {
-            1: 'member',
-            2: 'silver',
-            3: 'gold'
-        };
-
-        // filter for silver and gold members
-        const eligibleMembers = members.filter(member =>
-            ['silver', 'gold'].includes(membershipMap[member.membershipLvl]?.toLowerCase()) && member.isActive
-        );
+        // filter for active members
+        const eligibleMembers = members.filter(member => member.isActive);
 
         if (eligibleMembers.length === 0) {
             console.warn('No eligible members found for spotlights.');
@@ -29,7 +20,7 @@ async function loadSpotlights() {
         // select exactly 3 members
         const selectedMembers = shuffledMembers.slice(0, 3);
 
-        displaySpotlights(selectedMembers, membershipMap);
+        displaySpotlights(selectedMembers);
     } catch (error) {
         console.error('Error loading members:', error);
     }
@@ -44,7 +35,7 @@ function shuffleArray(array) {
     return array;
 }
 
-function displaySpotlights(members, membershipMap) {
+function displaySpotlights(members) {
     const container = document.querySelector('.spotlight-container');
     if (!container) {
         console.error('Spotlight container not found in the DOM.');
@@ -66,7 +57,6 @@ function displaySpotlights(members, membershipMap) {
                     <p><strong>Email:</strong> <a href="mailto:${member.email}">${member.email}</a></p>
                     <p><strong>Phone:</strong> <a href="tel:${member.phoneNum}">${member.phoneNum}</a></p>
                     <p><strong>URL:</strong> <a href="${member.webURL}" target="_blank">${member.webURL}</a></p>
-                    <p><strong>Membership Level:</strong> ${membershipMap[member.membershipLvl]}</p>
                 </div>
             </div>
         `;
