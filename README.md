@@ -6,8 +6,7 @@
 
 ## 📖 About the Project
 
-This website is designed to represent **AGWWAS**, a sectoral labor organization advocating for the welfare of government water sector workers in the Philippines.  
-The website highlights the organization's campaigns, advocacies, and mission to ensure that water remains a public good.
+This website is designed to represent **AGWWAS**, a sectoral labor organization advocating for the welfare of government water sector workers in the Philippines. The website highlights the organization's campaigns, advocacies, and mission to ensure that water remains a public good.
 
 ---
 
