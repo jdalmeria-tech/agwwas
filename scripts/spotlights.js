@@ -56,7 +56,7 @@ function displaySpotlights(members) {
                 <div class="spotlight-details">
                     <p><strong>Email:</strong> <a href="mailto:${member.email}">${member.email}</a></p>
                     <p><strong>Phone:</strong> <a href="tel:${member.phoneNum}">${member.phoneNum}</a></p>
-                    <p><strong>URL:</strong> <a href="${member.webURL}" target="_blank">${member.webURL}</a></p>
+                    <p><strong>Address:</strong> <a href="${member.address}" target="_blank">${member.address}</a></p>
                 </div>
             </div>
         `;

@@ -20,7 +20,6 @@ function displayMembers(members) {
       <h2 id="member-${member.id}-name" tabindex="0">${member.name}</h2>
       <p id="member-${member.id}-address" tabindex="0">${member.address}</p>
       <a href="${member.email}" target="_blank" tabindex="0">${member.email}</a>
-      <p id="member-${member.id}-membership" tabindex="0">Membership Level: ${member.membershipLvl}</p>
     `;
 
     cardsContainer.appendChild(card);

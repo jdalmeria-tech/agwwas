@@ -108,5 +108,15 @@
     "isActive": true,
     "tagline": "Koronadal's trusted water service union.",
     "email": "info@koronadalwdunion.com"
+  },
+  {
+    "name": "Toledo City Water District Employees Union",
+    "address": "143 Toledo Ave, Toledo City",
+    "phoneNum": "(+63)927 789 0123",
+    "img": "images/angelsburger.webp",
+    "logo": "images/burgerLogo.webp",
+    "isActive": true,
+    "tagline": "Toledo City's reliable water service union.",
+    "email": "info@toledowdunion.com"
   }
 ]
