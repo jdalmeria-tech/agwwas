@@ -10,11 +10,11 @@
 }
 
 :root {
-  --primary-color:#1B4080;
+  --primary-color:#0F2346;
   --secondary-color: #8093e9;
-  --bg-color: #F5F5F5;
-  --txt-color: #40C4C0;
-  --highlight-color: #D71920;
+  --bg-color: #F7F7F7;
+  --txt-color: #3BC0BC;
+  --highlight-color: #A9131A;
   --header-padding: 1rem;
   --header-font-size: 0.85rem;
   --header-font-weight: 700;
@@ -85,7 +85,7 @@ ul.menuLinks li a {
   font-weight: 500;
   display: block;
   padding: 0.75rem 2vw;
-  color: var(--bg-color);
+  color: var(--primary-color);
   text-decoration: none;
 }
 
@@ -204,6 +204,7 @@ div.menu button img {
 }
 /* footer */
 footer {
+  color: var(--txt-color);
   background-color: var(--primary-color);
   padding: var(--footer-padding);
   width: 100%;
@@ -393,7 +394,7 @@ div picture img {
 
 .spotlight-card {
     background-color: var(--bg-color);
-    color: var(--txt-color);
+    color: var(--primary-color);
     border-radius: var(--card-border-radius);
     box-shadow: var(--card-box-shadow);
     display: flex;
@@ -406,7 +407,7 @@ div picture img {
 }
 
 .spotlight-header {
-    background-color: var(--txt-color);
+    background-color: var(--primary-color);
    /* Round the top-right corner */
     padding: 1rem; 
     margin-bottom: .5rem;
@@ -418,13 +419,13 @@ div picture img {
 .spotlight-header h3 {
     font-size: 1.2rem;
     margin: 0;
-    color: var(--bg-color);
+    color: var(--txt-color);
 }
 
 .spotlight-header p {
     font-size: 1rem;
     margin: 0.5rem 0 0;
-    color: var(--highlight-color);
+    color: var(--bg-color);
 }
 
 .spotlight-body {
@@ -459,7 +460,7 @@ div picture img {
 }
 
 .spotlight-details a {
-    color: var(--txt-color);
+    color: var(--primary-color);
     text-decoration: none;
     word-break: break-word;
 }
