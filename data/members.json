@@ -1,134 +1,112 @@
 [
   {
     "name": "Baguio City WD Employees Association",
-    "address": "123 Main St, Talamban, Cebu City",
+    "address": "456 Session Rd, Baguio City",
     "phoneNum": "(+63)927 123 4567",
-    "webURL": "https://www.sephaya.com",
     "img": "images/sephaya.webp",
-    "logo":"images/sephayaLogo.webp",
-    "membershipLvl": 3,
+    "logo": "images/sephayaLogo.webp",
     "isActive": true,
-    "tagline": "Your style, our passion.",
-    "email": "contact@sephaya.com"
+    "tagline": "Delivering clean water to Baguio City.",
+    "email": "info@baguiowdunion.com"
   },
   {
     "name": "Legazpi City WD Union of Regular Employees",
-    "address": "456 Elm St, Talamban, Cebu City",
+    "address": "789 Rizal St, Legazpi City",
     "phoneNum": "(+63)927 234 5678",
-    "webURL": "https://www.nenas.com",
     "img": "images/cinnamon.webp",
-    "logo":"images/nenasLogo.webp",
-    "membershipLvl": 3,
+    "logo": "images/nenasLogo.webp",
     "isActive": true,
-    "tagline": "Taste the tradition.",
-    "email": "info@nenadelicacies.com"
+    "tagline": "Committed to Legazpi's water needs.",
+    "email": "contact@legazpiwdunion.com"
   },
   {
     "name": "Calumpit Water District Employees Union",
-    "address": "789 Oak St, Talamban, Cebu City",
+    "address": "123 Poblacion Rd, Calumpit",
     "phoneNum": "(+63)927 345 6789",
-    "webURL": "https://www.arratech.com",
     "img": "images/arratech.webp",
-    "logo":"images/arratechLogo.webp",
-    "membershipLvl": 2,
+    "logo": "images/arratechLogo.webp",
     "isActive": true,
-    "tagline": "Innovating the future.",
-    "email": "support@arratech.com"
+    "tagline": "Ensuring water for every home in Calumpit.",
+    "email": "support@calumpitwdunion.com"
   },
   {
     "name": "LWUA Emlpoyees Association for Progress",
-    "address": "101 Pine St, Talamban, Cebu City",
+    "address": "456 Progress Ave, Quezon City",
     "phoneNum": "(+63)927 456 7890",
-    "webURL": "https://www.activefitness.com",
     "img": "images/activeFitness.webp",
-    "logo":"images/activeLogo.webp",
-    "membershipLvl": 2,
+    "logo": "images/activeLogo.webp",
     "isActive": true,
-    "tagline": "Fitness is a choice.",
-    "email": "hello@activefitness.com"
+    "tagline": "Advancing water services nationwide.",
+    "email": "hello@lwuaunion.com"
   },
   {
     "name": "Naga City Water District Employees Union",
-    "address": "202 Maple St, Talamban, Cebu City",
+    "address": "789 Peñafrancia St, Naga City",
     "phoneNum": "(+63)927 567 8901",
-    "webURL": "https://www.smartsolutions.com",
     "img": "images/smartsol.webp",
-    "logo":"images/smartsolLogo.webp",
-    "membershipLvl": 1,
+    "logo": "images/smartsolLogo.webp",
     "isActive": true,
-    "tagline": "Simplifying your world.",
-    "email": "contact@smartsolutions.com"
+    "tagline": "Serving Naga City with clean water.",
+    "email": "contact@nagawdunion.com"
   },
   {
     "name": "Metro Cebu Water District Employees Union",
-    "address": "303 Birch St, Talamban, Cebu City",
+    "address": "123 Colon St, Cebu City",
     "phoneNum": "(+63)927 678 9012",
-    "webURL": "https://www.marketville.com",
     "img": "images/marketVille.webp",
-    "logo":"images/marketLogo.webp",
-    "membershipLvl": 2,
+    "logo": "images/marketLogo.webp",
     "isActive": true,
-    "tagline": "Padayon Talamban.",
-    "email": "info@marketville.com"
+    "tagline": "Providing water for Metro Cebu.",
+    "email": "info@cebuwdunion.com"
   },
   {
     "name": "Baybay City Water District Employees Association",
-    "address": "404 Cedar St, Talamban, Cebu City",
+    "address": "456 Baybay Blvd, Baybay City",
     "phoneNum": "(+63)927 789 0123",
-    "webURL": "https://www.angelsburger.com",
     "img": "images/angelsburger.webp",
-    "logo":"images/burgerLogo.webp",
-    "membershipLvl": 2,
+    "logo": "images/burgerLogo.webp",
     "isActive": true,
-    "tagline": "Unang kagat, tinapay lahat.",
-    "email": "support@angelsburger.com"
+    "tagline": "Clean water for Baybay City residents.",
+    "email": "support@baybaywdunion.com"
   },
   {
     "name": "Pili Water District Employees Association",
-    "address": "404 Cedar St, Talamban, Cebu City",
+    "address": "789 Pili St, Pili",
     "phoneNum": "(+63)927 789 0123",
-    "webURL": "https://www.angelsburger.com",
     "img": "images/angelsburger.webp",
-    "logo":"images/burgerLogo.webp",
-    "membershipLvl": 2,
+    "logo": "images/burgerLogo.webp",
     "isActive": true,
-    "tagline": "Unang kagat, tinapay lahat.",
-    "email": "support@angelsburger.com"
+    "tagline": "Dedicated to water services in Pili.",
+    "email": "info@piliwdunion.com"
   },
   {
     "name": "Kidapawan Water District Employees Union",
-    "address": "404 Cedar St, Talamban, Cebu City",
+    "address": "123 Kidapawan Rd, Kidapawan",
     "phoneNum": "(+63)927 789 0123",
-    "webURL": "https://www.angelsburger.com",
     "img": "images/angelsburger.webp",
-    "logo":"images/burgerLogo.webp",
-    "membershipLvl": 2,
+    "logo": "images/burgerLogo.webp",
     "isActive": true,
-    "tagline": "Unang kagat, tinapay lahat.",
-    "email": "support@angelsburger.com"
+    "tagline": "Reliable water supply for Kidapawan.",
+    "email": "contact@kidapawanwdunion.com"
   },
   {
     "name": "General Santos City WD Employees Association",
-    "address": "404 Cedar St, Talamban, Cebu City",
+    "address": "456 GenSan Ave, General Santos City",
     "phoneNum": "(+63)927 789 0123",
-    "webURL": "https://www.angelsburger.com",
     "img": "images/angelsburger.webp",
-    "logo":"images/burgerLogo.webp",
-    "membershipLvl": 2,
+    "logo": "images/burgerLogo.webp",
     "isActive": true,
-    "tagline": "Unang kagat, tinapay lahat.",
-    "email": "support@angelsburger.com"
+    "tagline": "Clean water for General Santos City.",
+    "email": "support@gensanwdunion.com"
   },
   {
     "name": "Metro Koronadal Employees Union",
-    "address": "404 Cedar St, Talamban, Cebu City",
+    "address": "789 Koronadal St, Koronadal",
     "phoneNum": "(+63)927 789 0123",
-    "webURL": "https://www.angelsburger.com",
     "img": "images/angelsburger.webp",
-    "logo":"images/burgerLogo.webp",
-    "membershipLvl": 2,
+    "logo": "images/burgerLogo.webp",
     "isActive": true,
-    "tagline": "Unang kagat, tinapay lahat.",
-    "email": "support@angelsburger.com"
+    "tagline": "Koronadal's trusted water service union.",
+    "email": "info@koronadalwdunion.com"
   }
 ]
