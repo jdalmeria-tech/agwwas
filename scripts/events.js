@@ -2,7 +2,7 @@
 const events = [
   // Example event structure:
   // { name: "Water Conservation Seminar", date: "2025-04-15", venue: "Cebu City Hall" }
-  { name: "National Council Conference", date: "April 23-26, 2025", venue: "Cebu City Hall" },
+  { name: "National Council Conference", date: "April 23-26, 2025", venue: "Golden Prince Hotel, Cebu City" },
   { name: "Human Rights to Water and Sanitation", date: "April 24, 2025", venue: "Golden Prince Hotel, Cebu City"}
 ];
 
