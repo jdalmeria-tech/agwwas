@@ -251,6 +251,10 @@ h2 {
   font-size: 1.3rem;
 }
 
+.intro-message {
+  margin: 1rem;
+}
+
 div {
   position: relative; 
 }
