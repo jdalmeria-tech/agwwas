@@ -1,6 +1,6 @@
 [
   {
-    "name": "Sephaya Accessories",
+    "name": "Baguio City WD Employees Association",
     "address": "123 Main St, Talamban, Cebu City",
     "phoneNum": "(+63)927 123 4567",
     "webURL": "https://www.sephaya.com",
@@ -12,7 +12,7 @@
     "email": "contact@sephaya.com"
   },
   {
-    "name": "Nena's Delicacies",
+    "name": "Legazpi City WD Union of Regular Employees",
     "address": "456 Elm St, Talamban, Cebu City",
     "phoneNum": "(+63)927 234 5678",
     "webURL": "https://www.nenas.com",
@@ -24,7 +24,7 @@
     "email": "info@nenadelicacies.com"
   },
   {
-    "name": "Arra Tech Intelligences",
+    "name": "Calumpit Water District Employees Union",
     "address": "789 Oak St, Talamban, Cebu City",
     "phoneNum": "(+63)927 345 6789",
     "webURL": "https://www.arratech.com",
@@ -36,7 +36,7 @@
     "email": "support@arratech.com"
   },
   {
-    "name": "Active Fitness Gym",
+    "name": "LWUA Emlpoyees Association for Progress",
     "address": "101 Pine St, Talamban, Cebu City",
     "phoneNum": "(+63)927 456 7890",
     "webURL": "https://www.activefitness.com",
@@ -48,7 +48,7 @@
     "email": "hello@activefitness.com"
   },
   {
-    "name": "Smart Solutions LLC",
+    "name": "Naga City Water District Employees Union",
     "address": "202 Maple St, Talamban, Cebu City",
     "phoneNum": "(+63)927 567 8901",
     "webURL": "https://www.smartsolutions.com",
@@ -60,7 +60,7 @@
     "email": "contact@smartsolutions.com"
   },
   {
-    "name": "Market Ville",
+    "name": "Metro Cebu Water District Employees Union",
     "address": "303 Birch St, Talamban, Cebu City",
     "phoneNum": "(+63)927 678 9012",
     "webURL": "https://www.marketville.com",
@@ -72,7 +72,55 @@
     "email": "info@marketville.com"
   },
   {
-    "name": "Angel's Burger",
+    "name": "Baybay City Water District Employees Association",
+    "address": "404 Cedar St, Talamban, Cebu City",
+    "phoneNum": "(+63)927 789 0123",
+    "webURL": "https://www.angelsburger.com",
+    "img": "images/angelsburger.webp",
+    "logo":"images/burgerLogo.webp",
+    "membershipLvl": 2,
+    "isActive": true,
+    "tagline": "Unang kagat, tinapay lahat.",
+    "email": "support@angelsburger.com"
+  },
+  {
+    "name": "Pili Water District Employees Association",
+    "address": "404 Cedar St, Talamban, Cebu City",
+    "phoneNum": "(+63)927 789 0123",
+    "webURL": "https://www.angelsburger.com",
+    "img": "images/angelsburger.webp",
+    "logo":"images/burgerLogo.webp",
+    "membershipLvl": 2,
+    "isActive": true,
+    "tagline": "Unang kagat, tinapay lahat.",
+    "email": "support@angelsburger.com"
+  },
+  {
+    "name": "Kidapawan Water District Employees Union",
+    "address": "404 Cedar St, Talamban, Cebu City",
+    "phoneNum": "(+63)927 789 0123",
+    "webURL": "https://www.angelsburger.com",
+    "img": "images/angelsburger.webp",
+    "logo":"images/burgerLogo.webp",
+    "membershipLvl": 2,
+    "isActive": true,
+    "tagline": "Unang kagat, tinapay lahat.",
+    "email": "support@angelsburger.com"
+  },
+  {
+    "name": "General Santos City WD Employees Association",
+    "address": "404 Cedar St, Talamban, Cebu City",
+    "phoneNum": "(+63)927 789 0123",
+    "webURL": "https://www.angelsburger.com",
+    "img": "images/angelsburger.webp",
+    "logo":"images/burgerLogo.webp",
+    "membershipLvl": 2,
+    "isActive": true,
+    "tagline": "Unang kagat, tinapay lahat.",
+    "email": "support@angelsburger.com"
+  },
+  {
+    "name": "Metro Koronadal Employees Union",
     "address": "404 Cedar St, Talamban, Cebu City",
     "phoneNum": "(+63)927 789 0123",
     "webURL": "https://www.angelsburger.com",
