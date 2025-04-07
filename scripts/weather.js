@@ -1,6 +1,6 @@
 const MY_API_KEY = '49a8afa9acc71e8f47ce23eeed198b3b'; // Replace with your OpenWeatherMap API key
-const LATITUDE = '10.369679631483846';
-const LONGITUDE = '123.9164270266778';
+const LATITUDE = '10.321307258819747';
+const LONGITUDE = '123.89262541962371';
 const currentWeatherUrl = `https://api.openweathermap.org/data/2.5/weather?lat=${LATITUDE}&lon=${LONGITUDE}&appid=${MY_API_KEY}&units=metric`;
 const forecastUrl = `https://api.openweathermap.org/data/2.5/forecast?lat=${LATITUDE}&lon=${LONGITUDE}&appid=${MY_API_KEY}&units=metric`;
 
