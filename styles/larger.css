@@ -22,7 +22,8 @@
   }
 
   ul.menuLinks a:hover {
-    color: var(--primary-color);
+    color: var(--bg-color);
+    text-decoration: underline;
   }
 
   nav {
