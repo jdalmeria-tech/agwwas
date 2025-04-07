@@ -55,7 +55,7 @@
     "img": "images/smartsol.webp",
     "logo":"images/smartsolLogo.webp",
     "membershipLvl": 1,
-    "isActive": false,
+    "isActive": true,
     "tagline": "Simplifying your world.",
     "email": "contact@smartsolutions.com"
   },
